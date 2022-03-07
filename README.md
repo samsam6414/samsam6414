@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sam
 - 🌱 I’m currently studying for my master's degree in EE at TKU.
-- 👀 I’m studying in ML and CNN 
+- 👀 I’m studying in ML,CNN and GAN 
 - 📫 How to reach me samsam6414@gmail.com
 
 <!---
